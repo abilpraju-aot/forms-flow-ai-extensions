@@ -17,7 +17,7 @@
 		<version.camunda>7.16.0</version.camunda>
 		<verion.spring-boot>2.5.4</verion.spring-boot>
 		<version.gson>2.8.9</version.gson>
-		<version.h2>2.0.206</version.h2>
+		<version.h2>2.2.220</version.h2>
 		<version.swagger>3.0.0</version.swagger>
 		<version.commons.io>2.11.0</version.commons.io>
 		<version.jackson>2.13.1</version.jackson>
