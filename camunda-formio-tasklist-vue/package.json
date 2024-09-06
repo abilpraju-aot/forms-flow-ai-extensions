@@ -29,7 +29,7 @@
     "build-report": "vue-cli-service build --report"
   },
   "dependencies": {
-    "axios": "^1.6.2",
+    "axios": "^1.6.8",
     "bootstrap": "^5.3.2",
     "bpmn-js": "^8.6.0",
     "crypto-js": "4.2.0",
